@@ -10,7 +10,7 @@ A collection of foundational computer science algorithms and custom data structu
 * **Merge Sort & Heap Sort:** Efficient $O(n \log n)$ sorting implementations.
 
 ### 2. Dynamic Programming
-* **Coin Change II:** Multi-combination counting via 2D dynamic programming matrices.
+* **Coin Change I & II:** Multi-combination counting via 2D dynamic programming matrices.
 * **Knapsack Problem (0/1):** Optimal resource allocation under capacity constraints.
 * **House Robber I & II:** Linear and circular dynamic programming optimization.
 
